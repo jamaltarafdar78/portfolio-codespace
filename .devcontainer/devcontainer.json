@@ -13,7 +13,14 @@
     "codespaces": {
       "openFiles": [
         "src/App.jsx"
-      ]
+      ], 
+      "repositories": {
+        "jamaltarafdar78/portfolio": {
+          "permissions": {
+            "issues": "write"
+          }
+        }
+      }
     }
   },
   "portsAttributes": {
